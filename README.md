@@ -14,5 +14,5 @@ $ cd TheDestroyer
 ### To Run
 ![To Run](https://i.imgur.com/ykPrIGU.gif)
 
-### Before Running, Do this
+### Install Mingw cross compiler by running setup command in Destroyer
 ![mingw](https://i.imgur.com/fkeDG5O.gif)
