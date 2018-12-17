@@ -1,6 +1,8 @@
 # TheDestroyer
 TheDestroyer is a Framework that Generates Malware that'll ruin/Destroy a Windows Machine. This is made for Teaching/Educational Purposes only. I am not responsible for any kind of misuse or Damage caused by the Program. 
 
+###### Created for Educational Purposes ONLY! 
+
 ## Prerequisites
 - Python 3.x
 - Linux (any dist)
@@ -16,3 +18,6 @@ $ cd TheDestroyer
 
 ### Install Mingw cross compiler by running setup command in Destroyer
 ![mingw](https://i.imgur.com/fkeDG5O.gif)
+
+### Contribute
+Contribute in this project by adding your own Destroyer Code.
